@@ -16,7 +16,7 @@ All code, modules, and configuration are **originally developed by me**, ensurin
 
 ## Architecture Diagram
 
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Gemini_Generated_Image_5hmnhq5hmnhq5hmn.png)
 
 ## Project Structure
 
@@ -172,13 +172,13 @@ db_password = "StrongPassword123!"
 
 ---
 ## Proof of Work
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Screenshot%20(384).png)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Screenshot%20(385).png)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Screenshot%20(386).png)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Screenshot%20(387).png)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Screenshot%20(388).png)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Screenshot%20(389).png)
+![Alt text](https://github.com/Naveen15github/AWS-Two-Tier-Architecture-with-Terraform-Flask-RDS-/blob/f9480ea0076a4897f25eaf2df1e4bd7fc9d41d85/Screenshot%20(390).png)
 
 
 ## Outputs
