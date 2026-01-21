@@ -24,7 +24,7 @@ day22/
 ├── variables.tf                     # Root-level variables
 ├── outputs.tf                       # Outputs of the root module
 ├── terraform.tfvars.example         # Example configuration values
-├── README.md                        # This file (written by me)
+├── README.md                        # This file 
 └── modules/
     ├── vpc/                         # VPC module
     │   ├── main.tf
@@ -43,7 +43,7 @@ day22/
         ├── variables.tf
         ├── outputs.tf
         └── templates/
-            └── user_data.sh         # EC2 bootstrap script (written by me)
+            └── user_data.sh         # EC2 bootstrap script 
 ```
 
 ---
