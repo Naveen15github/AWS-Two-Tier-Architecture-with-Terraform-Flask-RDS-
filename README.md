@@ -16,6 +16,8 @@ All code, modules, and configuration are **originally developed by me**, ensurin
 
 ## Architecture Diagram
 
+![Alt text](image-url)
+
 ## Project Structure
 
 ```
@@ -170,6 +172,14 @@ db_password = "StrongPassword123!"
 
 ---
 ## Proof of Work
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+
 
 ## Outputs
 
